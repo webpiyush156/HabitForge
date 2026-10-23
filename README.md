@@ -1,6 +1,6 @@
 # 🔥 HabitForge — Habit Tracking & Progress Dashboard
 
-**Build habits. Forge consistency.**
+**Build habits. Forge consistency**
 
 HabitForge is a web-based habit tracker designed to help users build consistent routines, monitor daily progress, and review their personal growth. It combines habit management, progress analytics, streak tracking, and cloud synchronization in a single interface.
 
