@@ -54,7 +54,7 @@ To configure your own instance:
 
 ## 🌐 Live Demo
 
-**Live Website:** ##https://habitforge-lovat.vercel.app/##.
+**Live Website:** ## https://habitforge-lovat.vercel.app/ ##.
 
 **GitHub Repository:** `https://github.com/webpiyush156/HabitForge.git`
 
