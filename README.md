@@ -56,7 +56,7 @@ To configure your own instance:
 
 **Live Website:** Add your deployed Vercel or GitHub Pages URL here.
 
-**GitHub Repository:** `https://github.com/YOUR-USERNAME/HabitForge`
+**GitHub Repository:** `https://github.com/webpiyush156/HabitForge.git`
 
 
 ## 📁 Project Structure
